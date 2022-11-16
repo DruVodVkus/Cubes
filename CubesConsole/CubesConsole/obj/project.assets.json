@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\W2119193\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "D:\\Кодинг\\третье визуалки\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\CubesConsole\\CubesConsole\\CubesConsole.csproj",
+      "projectUniqueName": "D:\\Кодинг\\Git\\Cubes\\CubesConsole\\CubesConsole\\CubesConsole.csproj",
       "projectName": "CubesConsole",
-      "projectPath": "Y:\\CubesConsole\\CubesConsole\\CubesConsole.csproj",
-      "packagesPath": "C:\\Users\\W2119193\\.nuget\\packages\\",
-      "outputPath": "Y:\\CubesConsole\\CubesConsole\\obj\\",
+      "projectPath": "D:\\Кодинг\\Git\\Cubes\\CubesConsole\\CubesConsole\\CubesConsole.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Кодинг\\Git\\Cubes\\CubesConsole\\CubesConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Кодинг\\третье визуалки\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\W2119193\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -56,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

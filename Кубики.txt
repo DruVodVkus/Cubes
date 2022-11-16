@@ -1,8 +1,8 @@
+New line for 6th
 double balance = 1000;
 Console.WriteLine("Balance is " + balance);
 do
 {
-
     Console.WriteLine("Enter a bet");
     double bet = Convert.ToDouble(Console.ReadLine());
     Console.WriteLine("Enter number from 1 to 6 ");
